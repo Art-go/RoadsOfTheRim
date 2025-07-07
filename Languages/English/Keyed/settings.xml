@@ -27,7 +27,7 @@
   <RoadsOfTheRim_commsSitesList>Construction sites</RoadsOfTheRim_commsSitesList>
   <RoadsOfTheRim_commsCancel>Cancel - no goodwill cost</RoadsOfTheRim_commsCancel>
   <RoadsOfTheRim_FactionStartsHelping>Help with construction</RoadsOfTheRim_FactionStartsHelping>
-  <RoadsOfTheRim_FactionStartsHelpingText>{0} has agreed to help build {1}, help will start in {2} days</RoadsOfTheRim_FactionStartsHelpingText>
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} has agreed to help build {1} for {3} work, help will start in {2} days</RoadsOfTheRim_FactionStartsHelpingText>
   <RoadsOfTheRim_FactionStopsHelping>Help cancelled</RoadsOfTheRim_FactionStopsHelping>
   <RoadsOfTheRim_FactionStopsHelpingText>{0} is not your ally any more and has stopped helping on the construction of {1}</RoadsOfTheRim_FactionStopsHelpingText>
   <RoadsOfTheRimWorkOnSite>Work</RoadsOfTheRimWorkOnSite>

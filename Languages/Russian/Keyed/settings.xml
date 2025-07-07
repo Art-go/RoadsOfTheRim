@@ -27,7 +27,7 @@
   <RoadsOfTheRim_commsSitesList>Строительные площадки</RoadsOfTheRim_commsSitesList>
   <RoadsOfTheRim_commsCancel>Отмена - не хватает репутации</RoadsOfTheRim_commsCancel>
   <RoadsOfTheRim_FactionStartsHelping>Помощь в строительстве</RoadsOfTheRim_FactionStartsHelping>
-  <RoadsOfTheRim_FactionStartsHelpingText>{0} согласился помочь построить {1}, помощь начнётся через {2} дней</RoadsOfTheRim_FactionStartsHelpingText>
+  <RoadsOfTheRim_FactionStartsHelpingText>Фракция {0} согласилась помочь со стройкой {1} на {3} работы, помощь начнётся через {2} дней</RoadsOfTheRim_FactionStartsHelpingText>
   <RoadsOfTheRim_FactionStopsHelping>Помощь отменена</RoadsOfTheRim_FactionStopsHelping>
   <RoadsOfTheRim_FactionStopsHelpingText>{0} больше не ваш союзник и перестал помогать в строительстве {1}</RoadsOfTheRim_FactionStopsHelpingText>
   <RoadsOfTheRimWorkOnSite>Работа</RoadsOfTheRimWorkOnSite>

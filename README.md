@@ -6,7 +6,7 @@
 Reabalance of Continued version
 https://steamcommunity.com/sharedfiles/filedetails/?id=2280318231
 Changed:
-- Added amount of help to letter when asking faction for a help
+- Letters now show amount of faction help
 - Changed faction help formula from 600\*(1+NegotiationAbility\*Random()\*5) to 600\*(1+NegotiationAbility\*(0.5+Random()/2)\*5)
 
 Update of Loconekos mod

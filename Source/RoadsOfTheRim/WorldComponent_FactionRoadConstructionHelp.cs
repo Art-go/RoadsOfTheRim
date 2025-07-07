@@ -86,7 +86,7 @@ public class WorldComponent_FactionRoadConstructionHelp(World world) : WorldComp
         // Test success or failure of the negotiator, plus amount of help obtained (based on negotiation value & roll)
         var negotiationValue = negotiator.GetStatValue(StatDefOf.NegotiationAbility);
         _ = helpRequestFailChance / negotiationValue;
-        var roll = Rand.Value;
+        var roll = 0.5f + Rand.Value / 2;
         var amountOfHelp = helpBaseAmount * (1 + (negotiationValue * roll * 5));
         //Log.Message(String.Format("[RotR] - Negotiation for road construction help : negotiation value = {0:0.00} , fail chance = {1:P} , roll = {2:0.00} , help = {3:0.00}", negotiationValue , failChance, roll , amountOfHelp));
 

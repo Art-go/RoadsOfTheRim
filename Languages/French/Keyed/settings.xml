@@ -28,7 +28,8 @@
   <RoadsOfTheRim_commsSitesList>Chantiers de construction</RoadsOfTheRim_commsSitesList>
   <RoadsOfTheRim_commsCancel>Annulation - pas de coût du goodwill</RoadsOfTheRim_commsCancel>
   <RoadsOfTheRim_FactionStartsHelping>Aide à la construction</RoadsOfTheRim_FactionStartsHelping>
-  <RoadsOfTheRim_FactionStartsHelpingText>{0} a accepté d'aider à construire {1}, l'aide commencera dans {2} jours.</RoadsOfTheRim_FactionStartsHelpingText>
+  <!--This specific one is edited using Google Translate-->
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} a accepté d'aider à construire {1} pour {3} travaux, l'aide commencera dans {2} jours</RoadsOfTheRim_FactionStartsHelpingText>
   <RoadsOfTheRim_FactionStopsHelping>Aide annulée</RoadsOfTheRim_FactionStopsHelping>
   <RoadsOfTheRim_FactionStopsHelpingText>{0} n'est plus votre allié et a cessé d'aider à la construction de {1}</RoadsOfTheRim_FactionStopsHelpingText>
   <RoadsOfTheRimWorkOnSite>Travail</RoadsOfTheRimWorkOnSite>

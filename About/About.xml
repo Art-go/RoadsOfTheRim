@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Roads of the Rim (Continued)</name>
-  <packageId>Mlie.RoadsOfTheRim</packageId>
+  <name>Roads of the Rim (Continued) Rebalanced</name>
+  <packageId>r1ce.RoadsOfTheRim</packageId>
   <author>Loconeko</author>
   <url>https://github.com/emipa606/RoadsOfTheRim</url>
   <supportedVersions>
@@ -24,6 +24,12 @@
     <li>brrainz.harmony</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Reabalance of Continued version
+https://steamcommunity.com/sharedfiles/filedetails/?id=2280318231
+Changed:
+- Letters now show amount of faction help
+- Changed faction help formula from 600\*(1+NegotiationAbility\*Random()\*5) to 600\*(1+NegotiationAbility\*(0.5+Random()/2)\*5)
+
 Update of Loconekos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1613783924
 
@@ -209,5 +215,5 @@ It will save a lot of your time (and a little bit of mine ;-) )
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2280318231][img]https://img.shields.io/github/v/release/emipa606/RoadsOfTheRim?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>

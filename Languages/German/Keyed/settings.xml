@@ -28,7 +28,8 @@
   <RoadsOfTheRim_commsSitesList>Baustellen</RoadsOfTheRim_commsSitesList>
   <RoadsOfTheRim_commsCancel>Abbrechen - keine Kosten für Goodwill</RoadsOfTheRim_commsCancel>
   <RoadsOfTheRim_FactionStartsHelping>Hilfe bei der Konstruktion</RoadsOfTheRim_FactionStartsHelping>
-  <RoadsOfTheRim_FactionStartsHelpingText>{0} hat sich bereit erklärt, beim Aufbau von {1} zu helfen, die Hilfe wird in {2} Tagen beginnen</RoadsOfTheRim_FactionStartsHelpingText>
+  <!--This specific one is edited using Google Translate-->
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} hat sich bereit erklärt, beim Aufbau von {1} für {3} Arbeit mitzuhelfen. Die Hilfe beginnt in {2} Tagen</RoadsOfTheRim_FactionStartsHelpingText>
   <RoadsOfTheRim_FactionStopsHelping>Hilfe abgebrochen</RoadsOfTheRim_FactionStopsHelping>
   <RoadsOfTheRim_FactionStopsHelpingText>{0} ist nicht mehr Ihr Verbündeter und hat aufgehört, bei der Konstruktion von {1} zu helfen</RoadsOfTheRim_FactionStopsHelpingText>
   <RoadsOfTheRimWorkOnSite>Arbeit</RoadsOfTheRimWorkOnSite>

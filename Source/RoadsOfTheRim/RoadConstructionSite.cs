@@ -391,7 +391,8 @@ public class RoadConstructionSite : WorldObject
         Find.LetterStack.ReceiveLetter(
             "RoadsOfTheRim_FactionStartsHelping".Translate(),
             "RoadsOfTheRim_FactionStartsHelpingText".Translate(helpFromFaction.Name, FullName(),
-                $"{(tick - Find.TickManager.TicksGame) / (float)GenDate.TicksPerDay:0.00}"),
+                $"{(tick - Find.TickManager.TicksGame) / (float)GenDate.TicksPerDay:0.00}",
+                $"{helpAmount:0.0}"),
             LetterDefOf.PositiveEvent,
             new GlobalTargetInfo(this)
         );

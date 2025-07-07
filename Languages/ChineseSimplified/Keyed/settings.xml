@@ -46,7 +46,8 @@
   <RoadsOfTheRim_commsSitesList>建筑工地</RoadsOfTheRim_commsSitesList>
   <RoadsOfTheRim_commsCancel>取消 - 没有商誉成本</RoadsOfTheRim_commsCancel>
   <RoadsOfTheRim_FactionStartsHelping>帮助建设</RoadsOfTheRim_FactionStartsHelping>
-  <RoadsOfTheRim_FactionStartsHelpingText>{0}已经同意帮助建设{1}，帮助将在{2}天开始。</RoadsOfTheRim_FactionStartsHelpingText>
+  <!--This specific one is edited using Google Translate-->
+  <RoadsOfTheRim_FactionStartsHelpingText>{0} 已同意协助构建 {1} 的 {3} 个工作单元，援助将于 {2} 天后开始。</RoadsOfTheRim_FactionStartsHelpingText>
   <RoadsOfTheRim_FactionStopsHelping>取消的帮助</RoadsOfTheRim_FactionStopsHelping>
   <RoadsOfTheRim_FactionStopsHelpingText>{0}不再是你的盟友，也不再对{1}的建设提供帮助。</RoadsOfTheRim_FactionStopsHelpingText>
   <RoadsOfTheRim_InsufficientConstructionMinLevel>道路建设减少到{0}：需要{1}的劳动力至少拥有{2}的建筑技能</RoadsOfTheRim_InsufficientConstructionMinLevel>

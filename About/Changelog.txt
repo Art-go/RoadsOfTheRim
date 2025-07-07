@@ -1,4 +1,7 @@
 # Changelog for RoadsOfTheRim
+1.5.2 - Rebalanced by r1ce
+- Letters now show amount of faction help
+- Changed faction help formula from 600\*(1+NegotiationAbility\*Random()\*5) to 600\*(1+NegotiationAbility\*(0.5+Random()/2)\*5)
 
 1.5.1 - Added check for active game during harmony patching to avoid issues with mods like ReGrowth Expanded World Generation
 
