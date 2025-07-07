@@ -1,6 +1,14 @@
-# [Roads of the Rim (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2280318231)
-
+# Roads of the Rim (Continued) Rebalanced
+
+
 ![Image](https://i.imgur.com/buuPQel.png)
+
+Reabalance of Continued version
+https://steamcommunity.com/sharedfiles/filedetails/?id=2280318231
+Changed:
+- Added amount of help to letter when asking faction for a help
+- Changed faction help formula from 600\*(1+NegotiationAbility\*Random()\*5) to 600\*(1+NegotiationAbility\*(0.5+Random()/2)\*5)
+
 Update of Loconekos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1613783924
 
