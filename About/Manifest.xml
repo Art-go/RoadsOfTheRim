@@ -7,5 +7,5 @@
   <loadBefore />
   <loadAfter />
   <manifestUri />
-  <downloadUr />
+  <downloadUri />
 </Manifest>
